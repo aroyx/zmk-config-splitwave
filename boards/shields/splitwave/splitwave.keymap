@@ -71,7 +71,7 @@
 // |     |     |      |      |      |     |                  |      |      | LALT | RALT  |     |     |
 //             |      |      |      |     |                  |      |      |      |       |
                         bindings = <
-   &trans &out OUT_USB   &out OUT_BLE   &kp INS   &kp PSCRN   &bt BT_CLR           &trans     &kp DEL    &kp ESC    &kp BSPC    &trans   &trans
+   &trans &out OUT_USB   &out OUT_BLE   &kp INS   &kp PSCRN   &trans               &trans     &kp DEL    &kp ESC    &kp BSPC    &trans   &trans
    &trans &studio_unlock &kp HOME       &kp PG_UP &kp PG_DN   &bt BT_NXT           &kp LEFT   &kp DOWN   &kp UP     &kp RIGHT   &trans   &trans
    &trans &trans         &tog 1         &trans    &kp END     &bt BT_PRV           &trans     &trans     &kp LALT   &kp RALT    &trans   &trans
                          &trans         &trans    &trans      &trans               &trans     &trans     &trans     &trans
