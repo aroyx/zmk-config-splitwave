@@ -1,7 +1,0 @@
-# No whitespace after the comma or in your part name!
-config SHIELD_SPLITWAVE_LEFT
-    def_bool $(shields_list_contains,splitwave_left)
-
-# No whitespace after the comma or in your part name!
-config SHIELD_SPLITWAVE_RIGHT
-    def_bool $(shields_list_contains,splitwave_right)
